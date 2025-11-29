@@ -1,19 +1,22 @@
 {
-	"name": "n8n-nodes-<...>",
+	"name": "n8n-nodes-boilerplate",
 	"version": "0.1.0",
-	"description": "",
+	"description": "AI-optimized n8n community node boilerplate with comprehensive documentation and examples",
 	"license": "MIT",
-	"homepage": "",
+	"homepage": "https://github.com/yigitkonur/n8n-boilerplate-vibecode",
 	"keywords": [
-		"n8n-community-node-package"
+		"n8n-community-node-package",
+		"n8n",
+		"workflow",
+		"automation"
 	],
 	"author": {
-		"name": "",
-		"email": ""
+		"name": "Yigit Konur",
+		"email": "yigit@konur.dev"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/<...>/n8n-nodes-<...>.git"
+		"url": "https://github.com/yigitkonur/n8n-boilerplate-vibecode.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",

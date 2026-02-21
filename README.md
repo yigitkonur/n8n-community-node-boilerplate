@@ -57,8 +57,8 @@ all point to the same underlying knowledge — n8n node conventions, TypeScript 
 ## getting started
 
 ```bash
-git clone https://github.com/yigitkonur/n8n-community-node-boilerplate.git
-cd n8n-community-node-boilerplate
+git clone https://github.com/yigitkonur/n8n-node-boilerplate.git
+cd n8n-node-boilerplate
 npm install
 ```
 

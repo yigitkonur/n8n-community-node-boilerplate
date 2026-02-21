@@ -23,7 +23,7 @@
 
 ```bash
 # Clone or create project
-git clone https://github.com/n8n-io/n8n-nodes-starter.git my-nodes
+git clone https://github.com/yigitkonur/n8n-node-boilerplate.git my-nodes
 cd my-nodes
 
 # Install dependencies (pnpm recommended)

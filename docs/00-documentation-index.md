@@ -92,7 +92,7 @@ When generating code, create files in these locations:
 
 ```bash
 # 1. Initialize project (5 min)
-git clone https://github.com/n8n-io/n8n-nodes-starter.git my-nodes
+git clone https://github.com/yigitkonur/n8n-node-boilerplate.git my-nodes
 cd my-nodes && npm install
 
 # 2. Create your first node (10 min)
@@ -193,7 +193,7 @@ npm run build && npm publish
 - **n8n Community Forum**: https://community.n8n.io/
 - **@n8n/node-cli**: https://www.npmjs.com/package/@n8n/node-cli
 - **n8n Verification Guidelines**: https://docs.n8n.io/integrations/creating-nodes/build/reference/verification-guidelines/
-- **n8n-nodes-starter**: https://github.com/n8n-io/n8n-nodes-starter
+- **n8n-node-boilerplate**: https://github.com/yigitkonur/n8n-node-boilerplate
 
 ---
 

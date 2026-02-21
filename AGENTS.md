@@ -701,7 +701,7 @@ describe('TableOperations', () => {
 
 ```bash
 # Clone and setup
-git clone https://github.com/n8n-io/n8n-nodes-starter.git my-nodes
+git clone https://github.com/yigitkonur/n8n-node-boilerplate.git my-nodes
 cd my-nodes
 pnpm install
 pnpm dev  # Starts dev server with hot reload
@@ -983,7 +983,7 @@ When building nodes, reference these key files:
 
 ```bash
 # 1. Initialize project (5 min)
-git clone https://github.com/n8n-io/n8n-nodes-starter.git my-nodes
+git clone https://github.com/yigitkonur/n8n-node-boilerplate.git my-nodes
 cd my-nodes && pnpm install
 
 # 2. Create your first node (10 min)
